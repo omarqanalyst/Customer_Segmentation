@@ -1,6 +1,6 @@
 # Customer Segmentation Analysis for Marketing Campaign Optimization
 
-🔗 **[View Analysis Notebook Here](YOUR_NOTEBOOK_LINK_HERE)** *(Replace with the actual link)*
+🔗 **You can dowload notebook here** https://github.com/omarqanalyst/Customer_Segmentation/blob/main/Capstone_Project_Reference_Notebook_Full_Code_Marketing_Campaign_Analysis_2.0.html
 
 ## Objective
 Conduct customer segmentation to optimize marketing campaigns by analyzing customer demographics, spending habits, and engagement history.
